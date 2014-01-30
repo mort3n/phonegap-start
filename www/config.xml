@@ -9,7 +9,8 @@
     <name>Hello World</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+      
+        Hello World sample application that responds to the deviceready event. Local copy.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
